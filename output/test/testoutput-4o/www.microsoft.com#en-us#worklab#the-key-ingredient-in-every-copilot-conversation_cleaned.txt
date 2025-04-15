@@ -1,0 +1,19 @@
+file name: microsoft.com#en-us#worklab#the-key-ingredient-in-every-copilot-conversation.txt
+
+## The Importance of Context in Using Microsoft 365 Copilot
+
+To make the most out of Microsoft 365 Copilot, providing ample context is key. Jared Spataro, Microsoft’s Corporate Vice President of Modern Work & Business Applications, likens working with Copilot to cooking—what you input is crucial. The most important ingredient is context. Users should not only specify the basic details of tasks, like drafting an email but also include nuances such as the tone and purpose of the message.
+
+## Detailed Input for Effective Results
+
+Contrary to the traditional search engine approach of minimal input, Copilot delivers better responses with more detailed descriptions. Users need not focus on perfect grammar or spelling—Copilot transforms disorganized thoughts into coherent outputs. However, it cannot intuitively understand the user’s intent without explicit input.
+
+For instance, when writing a speech with Copilot, specifying the desired emotional impact on the audience and their current state is important for obtaining effective suggestions.
+
+## Balancing Effort and Productivity
+
+Although it may seem time-consuming initially, investing in detailed input with Copilot can streamline productivity over the project’s lifecycle. This preparatory effort allows Copilot to assist more effectively from the draft stage to the final version.
+
+## The Art and Science of Interaction
+
+Interacting with Copilot, much like cooking, combines art and science. It encourages creativity and fun, rewarding users for exploring different scenarios. By focusing on including diverse contextual details, users can enjoy surprising and useful outcomes from Copilot.

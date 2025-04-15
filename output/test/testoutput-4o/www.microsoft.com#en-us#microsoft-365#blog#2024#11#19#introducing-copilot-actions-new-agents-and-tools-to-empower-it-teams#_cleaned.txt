@@ -1,0 +1,31 @@
+file name: www.microsoft.com#en-us#introducing-copilot-actions-new-agents-and-tools-to-empower-it-teams.txt
+
+## Introduction
+
+Microsoft 365 Copilot is becoming an essential tool for people around the world, with nearly 70% of Fortune 500 companies using it. Organizations like Dow expect significant cost savings on shipping operations, while the Bank of Queensland Group users report saving two and a half to five hours per week. Eaton has expedited its documentation processes by 83%, and Accenture is deploying Copilot to 100,000 employees.
+
+## Microsoft Ignite 2024 Announcements
+
+At Microsoft Ignite 2024, new developments were announced to enhance Copilot's role as a personal assistant and to transform business processes through agents built in Microsoft Copilot Studio. These announcements extend the previous wave of features, including the introduction of autonomous agent capabilities revealed in October 2024.
+
+## Customer Feedback and Performance Enhancements
+
+Thanks to invaluable customer feedback, Microsoft has improved Copilot's performance significantly, with responses being two times faster and satisfaction nearly tripling. New features aim to address major work challenges, helping employees automate tasks and manage schedules effectively.
+
+## New Agents and Copilot Studio
+
+In Microsoft 365, Copilot and Copilot Studio empower users by allowing them to create, manage, and connect agents. New agents are designed to enhance individual productivity and transform business operations, complementing the existing autonomous agents for professionals in various sectors such as sales, finance, and supply chain.
+
+## IT Empowerment and Security
+
+Chief information officers and IT professionals are crucial in AI transformation. The Copilot Control System has been introduced to support IT teams in adopting and utilizing Copilot effectively. Furthermore, advancements are being made to ensure Windows remains a secure and high-performance platform.
+
+## Call to Action
+
+To maximize Copilot's benefits, users are encouraged to start utilizing it as a personal assistant. More information is available on Microsoft365.com/copilot, and the Microsoft 365 app can be downloaded on mobile devices.
+
+## User Satisfaction and Pricing
+
+A study conducted in July and August 2024, involving blind, side-by-side human intelligence tasks, showed increased user satisfaction with Microsoft Copilot's responses. Further, pricing information is accurate as of November 2024.
+
+Enjoy the power of AI on both desktop and mobile platforms, and stay connected via social channels for the latest updates.

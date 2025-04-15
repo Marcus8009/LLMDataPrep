@@ -1,0 +1,21 @@
+file name: www.microsoft.com#en-us#worklab#why-using-a-polite-tone-with-ai-matters.txt
+
+## The Importance of Politeness When Interacting with AI
+
+Technology may not have feelings, but practicing basic etiquette can significantly enhance interactions with AI, according to Kurtis Beavers, a director on the design team for Microsoft Copilot. This principle aligns with the advice to “treat others the way you want to be treated,” and it certainly applies to AI.
+
+Beavers emphasizes that while AI chatbots do not experience appreciation in the human sense, using polite language contributes to generating respectful and collaborative outputs. He states, “Using polite language sets a tone for the response.” 
+
+Large Language Models (LLMs), which power many AI systems, are trained on vast datasets of human conversations. Similar to how email autocomplete functions, LLMs predict what words or phrases are likely to come next in a conversation. When a user engages with politeness, the AI is more inclined to reciprocate this tone, reinforcing the idea that kindness begets kindness—much like interactions with colleagues or baristas.
+
+Moreover, generative AI reflects the professionalism, clarity, and detail present in the user’s prompts. As Beavers explains, “It’s a conversation,” and the user plays a crucial role in establishing the atmosphere. Using provocative or rude language can result in similarly negative responses, suggesting that, like humans, AI cannot always rise above disrespect.
+
+To improve interactions with AI, Beavers recommends starting prompts with phrases like “please”: for example, “please rewrite this more concisely” or “please suggest 10 ways to rebrand this product.” Expressing gratitude such as saying thank you after responses enhances the AI’s responsiveness and overall performance. 
+
+Lastly, cultivating polite interactions with AI fosters better communication skills for engaging with other humans, reinforcing the value of etiquette in both digital and real-world conversations. 
+
+--- 
+
+## Conclusion 
+
+Engagement with AI through polite language not only leads to better AI outputs but also promotes good practices for human interactions.

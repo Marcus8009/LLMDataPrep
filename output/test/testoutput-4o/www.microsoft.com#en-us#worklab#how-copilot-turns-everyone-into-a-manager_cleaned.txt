@@ -1,0 +1,30 @@
+file name: www.microsoft.com#en-us#worklab#how-copilot-turns-everyone-into-a-manager.txt
+
+## The Adaptation of Copilot in the Workplace
+
+Earlier this year, Microsoft launched an early access program for Microsoft 365 Copilot. Since then, it has become an integral part of the workday for tens of thousands of users. An unexpected insight has emerged: experienced managers find it easier to adapt to this new technology compared to their less experienced colleagues.
+
+Jared Spataro, Microsoft’s Corporate Vice President of Modern Work & Business Applications, noted that it was initially assumed that younger, digital-savvy employees would readily embrace this technology. However, the reality is that Copilot effectively transforms everyone into a manager, necessitating managerial skills to maximize its potential.
+
+## Unlocking Copilot’s Full Potential
+
+While Copilot automates routine tasks, such as locating shared documents, its greatest value lies in handling complex tasks. These tasks include crafting emails tailored to specific audiences or analyzing datasets to suggest suitable visualizations. Copilot mirrors the capabilities of a highly skilled early-career employee. To exploit its potential, managerial skills are essential.
+
+Key managerial skills required include:
+
+- Breaking down work into manageable tasks
+- Assigning work with clear expectations and context
+- Evaluating and providing feedback on completed work
+- Progressing effectively with decisions and deliverables
+
+## Bridging the Skills Gap
+
+Senior leaders tend to have a better grasp of these management techniques compared to early-career employees. Preparing an organization for generative AI involves enhancing employees' leadership and management skills rather than just their technical abilities.
+
+To capitalize on Copilot, it is crucial to offer training, guides, and leadership opportunities—both formal and informal. In this evolving era, organizations that equip their employees with these skills will gain a competitive edge.
+
+## Conclusion
+
+Stay informed about AI by subscribing to the WorkLab newsletter for the latest research, insights, and trends.
+
+---

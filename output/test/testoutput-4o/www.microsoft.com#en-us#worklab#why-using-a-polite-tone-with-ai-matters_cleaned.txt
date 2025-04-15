@@ -1,0 +1,19 @@
+file name: www.microsoft.com#en-us#worklab#why-using-a-polite-tone-with-ai-matters.txt
+
+## The Importance of Politeness in AI Interactions
+
+No, technology can’t get offended. But basic etiquette still goes a long way, says this Copilot designer.
+
+## Treating AI with Courtesy
+
+We’ve all heard the advice to “treat others the way you want to be treated.” But does that apply to AI? It should, says Microsoft’s Kurtis Beavers, a director on the design team for Microsoft Copilot. While AI chatbots do not have feelings, using basic etiquette when interacting with AI, Beavers tells WorkLab, helps generate respectful, collaborative outputs. 
+
+“Using polite language sets a tone for the response,” he explains. Large language models (LLMs), a.k.a. generative AI, are trained on human conversations. They make highly probabilistic guesses at what comes next based on user input. When politeness is detected, these systems are more likely to respond in kind. Just like with people, such as colleagues, strangers, or baristas, kindness tends to encourage kindness in return.
+
+## The Impact of Tone and Language on AI
+
+Generative AI reflects the levels of professionalism, clarity, and detail in prompts. “It’s a conversation,” Beavers says—and the user sets the tone. If provocative or rude language is used, expect a sassy response, much like human interactions. 
+
+Instead of commanding, start prompts with “please”: please rewrite this more concisely; please suggest 10 ways to rebrand this product. Thanking the AI afterward and acknowledging its assistance ensures not only courteous responses but also enhances AI performance.
+
+An added bonus? These practices aid in human interactions too.
